@@ -1,0 +1,26 @@
+Wine is produced, enjoyed, and studied all around the world, but what makes one wine better than another? 
+
+This project seeks to uncover and explore the relationships between key wine characterics and chemical qualities to determine what makes one wine average and another one exceptional.
+
+For this study, I will be using the Wine Quality Data Set from the UCI Machine Learing Repository, found here: [Wine Quality Data Set] (https://archive.ics.uci.edu/ml/datasets/wine+quality).
+
+The data is comprised of two data sets corresponding to red and white variants of Portugese Vinho Verde wine. 
+
+Combined, the dataset includes reviews of 4898 wines with the following variables:
+
+Input variables: 
+1 - fixed acidity
+2 - volatile acidity
+3 - citric acid
+4 - residual sugar
+5 - chlorides
+6 - free sulfur dioxide
+7 - total sulfur dioxide
+8 - density
+9 - pH
+10 - sulphates
+11 - alcohol
+
+Output variable (based on sensory data):
+12 - quality (score between 0 and 10)
+
